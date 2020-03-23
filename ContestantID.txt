@@ -1,0 +1,16 @@
+SBD	|	HỌ VÀ TÊN		|	LỚP
+-----------------------------------------------------
+001	|	Mạnh Thế Dũng		|	CS81
+002	|	Vũ Tấn Đạt		|	IT81
+003	|	Bành Thị Mỹ Duyên	|	TK61
+004	|	Lê Sang			|	TH73
+005	|	Nguyễn Đỗ Trọng		|	IT81
+006	|	Nguyễn Quốc Hòa		|	IT81
+007	|	Nguyễn Văn Quốc		|	CS91
+008	|	Võ Huy Nguyên		|	IT91
+009	|	Sử Huy Cường		|	TH03
+010	|	Phạm Quang Minh		|	CS82
+011	|	Phạm Hoài Thanh		|	TH71
+012	|	Lê Thanh Hiền		|	IM82
+013	|	Đỗ Minh Nhật		|	IT81
+014	|	Nguyễn Trường Vũ	|	CS91
